@@ -1,9 +1,0 @@
-META-INF/MANIFEST.MF
-META-INF/maven/org.papoose.test.bundles/test-jar/pom.properties
-META-INF/maven/org.papoose.test.bundles/test-jar/pom.xml
-com.acme.fuse.Dynamite.class
-com.acme.pvt.Hidden.class
-com.acme.pvt.Secret.class
-com.acme.shared.Nested.class
-com/acme/fuse/dynamite.xml
-com/acme/resource/camera.xml
